@@ -1,0 +1,59 @@
+#app {
+    background-image: url('@/assets/1.jpg');
+    background-size: cover; 
+    background-repeat: no-repeat; 
+    background-position: center;
+    background-color: rgba(255, 255, 255, 0.4);
+    background-blend-mode: soft-light;
+    padding: 5px;
+    border-radius: 10px;
+    font-family: 'Times New Roman', Times, serif;
+    align-items: center;
+    text-align: center;
+  }
+  
+  nav {
+    margin-bottom: 15px;
+  }
+  
+  nav a {
+    color: rgb(46, 43, 43);
+    text-decoration: none;
+    font-weight: bold;
+  }
+  
+  nav a:hover {
+    color: #d63384; 
+  }
+  
+  h2 {
+    color: #444;
+  }
+  
+  ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .lista1 {
+    background: none;
+    margin: 5px 0;
+    padding: 10px;
+  }
+  
+  button {
+    margin-left: 10px;
+    padding: 5px 10px;
+    color: black;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #ffe3ed;
+  }
+  
+  .Tareas {
+    list-style-type: none;
+    background-color: none;
+  }  
